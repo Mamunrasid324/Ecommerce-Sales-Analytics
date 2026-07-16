@@ -1,0 +1,37 @@
+ProductID,Product,Category,Price,GST
+101,Mobile,Electronics,15995,18
+102,Laptop,Electronics,1060,18
+103,Smart TV,Electronics,77020,18
+104,Refrigerator,Electronics,55086,18
+105,AC,Electronics,6465,18
+106,Washing Machine,Electronics,37394,18
+107,Shirt,Clothing,44331,18
+108,T-Shirt,Clothing,60463,18
+109,Jeans,Clothing,16223,18
+110,Jacket,Clothing,41290,18
+111,Kurta,Clothing,67421,18
+112,Saree,Clothing,65020,18
+113,Mixer,Home & Kitchen,969,18
+114,Cookware Set,Home & Kitchen,59935,18
+115,Water Bottle,Home & Kitchen,63155,18
+116,Dining Table,Home & Kitchen,65125,18
+117,Rice,Grocery,68169,18
+118,Milk,Grocery,5511,18
+119,Cooking Oil,Grocery,53907,18
+120,Biscuits,Grocery,28893,18
+121,Face Wash,Beauty & Personal Care,72132,18
+122,Shampoo,Beauty & Personal Care,25858,18
+123,Perfume,Beauty & Personal Care,18631,18
+124,Lipstick,Beauty & Personal Care,2947,18
+125,Cricket Bat,Sports & Fitness,59350,18
+126,Football,Sports & Fitness,65925,18
+127,Yoga Mat,Sports & Fitness,35973,18
+128,Dumbbells,Sports & Fitness,67635,18
+129,Python Book,Books,57086,18
+130,SQL Book,Books,67003,18
+131,Notebook,Books,31751,18
+132,Story Book,Books,11594,18
+133,Toy Car,Toys,69292,18
+134,Puzzle,Toys,4090,18
+135,Teddy Bear,Toys,41806,18
+136,Building Blocks,Toys,10827,18
